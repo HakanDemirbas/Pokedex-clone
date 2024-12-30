@@ -39,6 +39,6 @@ export const Moves = () => {
           </li>
         ))}
       </ul>
-    </Row>
+    </Row> 
   );
 };
